@@ -33,5 +33,25 @@ catch (FormatException)
     Console.WriteLine("ERROR 001 debes ingresar un numero válido: ");
 }
 
+//Validar Edad para ingresar a un club 
+
+int mayoria, resta;
+Console.WriteLine("Bienvenido al Club Adultos y más");
+Console.WriteLine("A Continuación se solicitará el dato de su edad");
+Console.Write("Por Favor Ingrese su Edad: ");
+int edad = Convert.ToInt32(Console.ReadLine());
+
+if (edad >= 18)
+{
+    Console.WriteLine("Puede ingresar, sea usted bienvenido; y recuerde, lo que pasa en el club, se queda en el club");
+}
+else
+{
+    Console.WriteLine("Lo sentimos, usted no puede ingresar, no es mayor de edad");
+    resta = 18 - edad;
+    Console.WriteLine("Usted solo tiene: " + edad );
+    Console.WriteLine("le faltan: " + resta + " años para poder ingresar");
+}
+
 
 Console.ReadKey();

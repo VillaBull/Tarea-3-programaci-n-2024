@@ -12,3 +12,4 @@ C:\Users\villa\OneDrive\Desktop\tarea3 programación\tarea3 programación\obj\De
 C:\Users\villa\OneDrive\Desktop\tarea3 programación\tarea3 programación\obj\Debug\net8.0\tarea3 programación.pdb
 C:\Users\villa\OneDrive\Desktop\tarea3 programación\tarea3 programación\obj\Debug\net8.0\tarea3 programación.genruntimeconfig.cache
 C:\Users\villa\OneDrive\Desktop\tarea3 programación\tarea3 programación\obj\Debug\net8.0\ref\tarea3 programación.dll
+C:\Users\villa\OneDrive\Desktop\tarea3 programación\tarea3 programación\obj\Debug\net8.0\tarea3 programación.sourcelink.json
