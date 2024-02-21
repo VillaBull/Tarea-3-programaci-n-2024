@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarea3 programación")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f44692eabbad9b31cedcd1df104b6c04b65cd60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9dd694883f26016249d5a8ab1780d27d628f921")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarea3 programación")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarea3 programación")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
